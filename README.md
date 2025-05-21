@@ -59,14 +59,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-kenad&theme=dark&hide_border=false&layout=compact" />
 </p>
 
----
 
-## 🧭 Visitor Count
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=mohamed-kenad&icon=0&color=6" />
-</p>
-
----
-
-<!-- Created with ❤️ by Mohamed Kenad -->
