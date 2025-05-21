@@ -7,76 +7,44 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF" />
 </p>
 
----
-
-### 💡 About Me:
-- 🔭 I’m currently working on a **Pharmacy Management Dashboard** using React + Redux Toolkit  
-- 🌱 I’m currently learning **Next.js 15** and **TypeScript**  
-- 💬 Ask me about **Laravel, React, Redux, MongoDB**  
-- ⚡ Fun fact: I love clean UI, automation, and late-night coding ☕  
+# 💫 About Me:
+### Hi there 👋, I'm Mohamed  
+💻 I'm a Full Stack Web Developer.
 
 ---
 
-### 🚀 My Tech Stack:
-**Languages:**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)  
-
-**Frameworks & Libraries:**  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) 
-![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) 
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-
-**Database & DevOps:**  
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FCA121?style=flat&logo=gitlab&logoColor=white)  
-![Apache](https://img.shields.io/badge/Apache-D42029?style=flat&logo=apache&logoColor=white)
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/mohamd.kenad)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mohammed_kenad)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed--kenad/)
 
 ---
 
-### 🌱 Currently Learning:
-- ✅ TypeScript  
-- ✅ Advanced Laravel API structure  
-- ✅ CI/CD Pipelines with GitLab  
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ---
 
-### 🌐 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed--kenad/)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/mohammed_kenad)  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=Facebook&logoColor=white)](https://web.facebook.com/mohamd.kenad)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mohamed-kenad&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mohamed-kenad&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-kenad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
-### 📌 Featured Projects (Coming Soon):
-> *(You can add pinned repositories or featured project links here)*  
-- 🧠 Pharmacy Dashboard  
-- 📦 Inventory System  
-- 💼 Portfolio Website  
+[![](https://visitcount.itsvg.in/api?id=mohamed-kenad&icon=0&color=0)](https://visitcount.itsvg.in)
 
----
-
-### 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-kenad&theme=dark&show_icons=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-kenad&layout=compact&theme=dark" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mohamed-kenad&theme=dark" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=mohamed-kenad&icon=0&color=6" alt="Profile views" />
-</p>
-
-<!-- You can customize this section using tools like GPRM or GitHub Readme Generator -->
