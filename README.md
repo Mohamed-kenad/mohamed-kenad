@@ -1,7 +1,7 @@
 <!-- الملف التعريفي الشخصي - Mohamed Kenad -->
 
 <h1 align="center">Hi 👋, I'm Mohamed Kenad</h1>
-<h3 align="center">🚀 A Passionate Full Stack Web Developer from Morocco</h3>
+<h3 align="center">🚀 I'm Full Stack Web Developer </h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF" />
