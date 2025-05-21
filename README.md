@@ -1,4 +1,4 @@
-<!-- الملف التعريفي الشخصي - Mohamed Kenad -->
+
 
 <h1 align="center">Hi 👋, I'm Mohamed Kenad</h1>
 <h3 align="center">🚀 I'm Full Stack Web Developer </h3>
