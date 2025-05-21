@@ -11,11 +11,8 @@
 
 ## 💫 About Me
 - 🔭 I’m currently working on **Full Stack Web Projects**
-- 🌱 I’m currently learning **Next.js & DevOps Tools**
 - 👨‍💻 All of my projects are available at: [mohamed-kenad GitHub](https://github.com/mohamed-kenad)
 - 💬 Ask me about **React, Laravel, or MongoDB**
-- 📫 How to reach me: **mohamedkenad.dev@gmail.com**
-- ⚡ Fun fact: I love building clean UIs and debugging tough logic!
 
 ---
 
