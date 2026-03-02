@@ -68,6 +68,4 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=mohamed-kenad&theme=dark&hide_border=false" height="200" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-kenad&theme=dark&hide_border=false&layout=compact" />
-</p>
+
