@@ -64,7 +64,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-kenad&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="200" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=mohamed-kenad&theme=dark&hide_border=false" height="200" />
 </p>
 
 
