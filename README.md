@@ -66,5 +66,3 @@
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=mohamed-kenad&theme=dark&hide_border=false" height="200" />
 </p>
-
-
